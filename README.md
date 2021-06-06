@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Dart | CSS | HTML | Java | JavaScript | PHP
-- 🌐 &nbsp; React | ReactNative | NodeJS | TypeScript | Flutter
+- 🌐 &nbsp; React | Vuejs | NodeJS | TypeScript | Flutter
 - 🛢 &nbsp; MySQL | SQLite | Docker | PostgreSql | MongoDB
 - 🔧 &nbsp; Android Studio | Figma | Visual Studio code | Git
 
