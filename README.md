@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; I’m currently learning Angular and .NET Core Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software Engineering and English.
 - 💼 &nbsp; Android developer and front-end web developer.
@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Dart | CSS | HTML | Java | JavaScript | PHP
-- 🌐 &nbsp; React | Vuejs | NodeJS | TypeScript | Flutter
-- 🛢 &nbsp; MySQL | SQLite | Docker | PostgreSql | MongoDB
-- 🔧 &nbsp; Android Studio | Figma | Visual Studio code | Git
+- 💻 &nbsp; Dart | CSS | HTML | Java | JavaScript | C#
+- 🌐 &nbsp; .NET Core | Vuejs | NodeJS | TypeScript | Flutter
+- 🛢 &nbsp; MySQL | SQL Server | Docker | PostgreSql | MongoDB
+- 🔧 &nbsp; Android Studio | Figma | Visual Studio Code | Git
 
 
 </br>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">  
-&nbsp; <a href="https://www.instagram.com/ui.sam00/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/ui3.00/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/uisam00/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:uisam.santos@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
